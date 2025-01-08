@@ -1,2 +1,15 @@
-# Front_end_training
-前端实现四个页面
+# umi project
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
